@@ -14,7 +14,7 @@ int main() {
     
     std::cout << "\nMario Y, Star Y, Number of Frames: "; std::cin >> marioY >> starY >> n;
     
-    starY -= 19.99; // optimal distance below star
+    starY -= 19.999999; // optimal distance below star
     marioY += 160; // mario hitbox height
     yDist = starY - marioY;
     yDistPerFrame = (getSpd(yDist, n) / 4) + 52;
