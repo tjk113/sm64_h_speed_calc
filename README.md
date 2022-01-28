@@ -9,10 +9,10 @@ for the hspd equation :D.
 Either open the .exe directly, or run it from a cmd window.
 
 ```console
-Mario Y, Star Y, Number of Frames: 3072 6700 4
+Mario Y, Star Y, Number of Frames: -1833 6700 5
 
-Required H Speed = 3836
-Required Y Speed = 907
+Required H Speed = 6506.399902
+Required Y Speed = 1678.599976
 
 New Calculation? [y/n]
 ```
